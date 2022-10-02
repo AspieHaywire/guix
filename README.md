@@ -1,0 +1,2 @@
+# guix
+.configs &amp;notes
